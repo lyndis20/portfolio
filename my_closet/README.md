@@ -1,6 +1,7 @@
 # 스몰 프로젝트 - 옷 구매 가이드
  
 ## 프로젝트 개요
+(2023.04.01 ~ 현재 진행중)
 
 ### 주제
 
@@ -33,3 +34,5 @@ ex) 가설 예시
 
 #### 데이터 샘플
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/114198737/230374910-b491f1f5-d65b-4b35-bdfd-9f86f60bb2dc.png">
+
+데이터 수집 진행 중
