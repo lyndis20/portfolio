@@ -34,6 +34,8 @@ ex) 가설 예시
 - 2만원 미만 옷은 성공 확률이 낮다
 
 #### 데이터 샘플
-<img width="1197" alt="image" src="https://user-images.githubusercontent.com/114198737/230374910-b491f1f5-d65b-4b35-bdfd-9f86f60bb2dc.png">
+<img width="1044" alt="image" src="https://user-images.githubusercontent.com/114198737/230853285-99a4e30c-8a60-489d-a027-7c550be1c05c.png">
 
-데이터 수집 진행 중
+
+2023.04.10 데이터 수집 완료
+데이터 정의서 추가 예정
