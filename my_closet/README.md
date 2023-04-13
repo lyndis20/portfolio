@@ -36,6 +36,8 @@ ex) 가설 예시
 #### 데이터 샘플
 <img width="1044" alt="image" src="https://user-images.githubusercontent.com/114198737/230853285-99a4e30c-8a60-489d-a027-7c550be1c05c.png">
 
-
 2023.04.10 데이터 수집 완료
 데이터 정의서 추가 예정
+
+
+### 데이터 살펴보기
