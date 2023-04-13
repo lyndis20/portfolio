@@ -41,3 +41,12 @@ ex) 가설 예시
 
 
 ### 데이터 살펴보기
+<img width="989" alt="태블로1" src="https://user-images.githubusercontent.com/114198737/231694364-d1ac28ea-cb77-418a-8a42-078656babd9a.png">
+<img width="984" alt="태블로2" src="https://user-images.githubusercontent.com/114198737/231694394-292b11a6-5a09-4d71-8935-fba0ab350337.png">
+<img width="1007" alt="태블로3" src="https://user-images.githubusercontent.com/114198737/231694418-b7981e23-9bd0-457a-ae0a-687289a77433.png">
+<img width="986" alt="태블로4" src="https://user-images.githubusercontent.com/114198737/231694444-13c29615-8002-4c31-831a-da7188ee4cc0.png">
+
+
+
+
+- 각 옷에 대해 3가지 기준으로 **성공 점수**를 매긴다. (1️⃣ 옷에대한 선호도, 2️⃣ 입는 빈도, 3️⃣ 주변 사람의 평가)
