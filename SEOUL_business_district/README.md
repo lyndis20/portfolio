@@ -97,7 +97,6 @@ AI스쿨 부트캠프 미드프로젝트 (EDA, 대시보드 제작) 6인 팀
 - 동일한 지도 시각화를 Python Folium과 태블로 대시보드로 구현해보면서 차이점을 느낄 수 있었다.
 - 줌인 줌아웃을 하면서 Clustering하여 보여주는 기능은 Folium이 우수하다.
 - 비주얼적으로 편집할때 크기나 색상을 미세하게 조정하기에는 태블로가 우수하다.
-![image](https://user-images.githubusercontent.com/114198737/235699194-28eb0df3-dccf-4713-a6ad-c3605d058b6b.png)
 ![image](https://user-images.githubusercontent.com/114198737/235699374-5d298997-e2a5-4f43-afe2-79aa63693e7e.png)
 
 
