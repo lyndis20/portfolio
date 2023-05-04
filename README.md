@@ -1,8 +1,8 @@
 # portfolio
 ---
-1. Olist (Business Analysis)
+1. Olist (Business Analysis) <br>
 https://github.com/lyndis20/portfolio/tree/main/Olist
-2. 서울시 상권분석 (SEOUL business district)
+2. 서울시 상권분석 (SEOUL business district) <br>
 https://github.com/lyndis20/portfolio/tree/main/SEOUL_business_district
 ---
 추가 예정
