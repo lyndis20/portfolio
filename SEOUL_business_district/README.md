@@ -3,9 +3,9 @@
 ## 프로젝트 개요
 
 AI스쿨 부트캠프 미드프로젝트 (EDA, 대시보드 제작) 6인 팀
-주제: 예비창업자, 소상공인을 위한 서울시 상권분석 서비스 제작
-기간: 2022.10.19 - 2022.10.24 (6일)
-기술: Python, Pandas, Matplotlib, Seaborn, Folium, Streamlit, Tableau
+- 주제: 예비창업자, 소상공인을 위한 서울시 상권분석 서비스 제작
+- 기간: 2022.10.19 - 2022.10.24 (6일)
+- 기술: Python, Pandas, Matplotlib, Seaborn, Folium, Streamlit, Tableau
 ![image](https://user-images.githubusercontent.com/114198737/235697869-d1cfc305-4d41-427d-b891-72e0516f9ffb.png)
 깃허브 링크: https://github.com/lyndis20/ai7_Mid-Project
 
@@ -68,10 +68,11 @@ AI스쿨 부트캠프 미드프로젝트 (EDA, 대시보드 제작) 6인 팀
 - 사용자가 선택한 업종의 매출에 대해 연령대 및 성별 등으로 나누어 시각화 자료를 제공한다.
 - 사용자가 검색했던 지역의 생활인구 / 거주인구를 연령대 및 성별 등으로 나누어 시각화 자료를 제공한다.
 
+---
+
 > 뉴스 검색 페이지
 - 궁금한 키워드의 뉴스를 검색하여 모아서 확인해볼 수 있다.
 
----
 
 
 ## 프로젝트 회고
