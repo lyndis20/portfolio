@@ -1,8 +1,9 @@
 # portfolio
 ---
-업데이트 예정입니다. 
-공사중
-
 1. Olist (Business Analysis)
-2. Princess Diary (Text Analysis)
-3. 서울시 상권분석 (SEOUL business district)
+https://github.com/lyndis20/portfolio/tree/main/Olist
+2. 서울시 상권분석 (SEOUL business district)
+https://github.com/lyndis20/portfolio/tree/main/SEOUL_business_district
+---
+추가 예정
+3. Princess Diary (NLP)
