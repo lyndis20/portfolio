@@ -97,7 +97,7 @@ Olist의 경우 고객이 각 주문에 대해 **1~5점까지 평점**을 매기
 1. 불균형 데이터로 인해 예측한 가설과 다른 결과가 나와 결론을 도출하는데 어려움이 있었다.
 
 **Funnel 분석 결과**
-![image](https://user-images.githubusercontent.com/114198737/235695871-2cfe5eb9-ab06-455d-8eb2-69784611ca36.png)
+![image](https://user-images.githubusercontent.com/114198737/236357867-0c896273-9973-40a8-9e5c-67e1ef8539c2.png)
 
 → 리텐션 분석 결과 2번째 구매율이 3%로 극단적인 결과가 나타났다.
 
