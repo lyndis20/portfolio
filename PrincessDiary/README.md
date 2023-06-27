@@ -71,29 +71,43 @@ python, pandas, matplotlib, seaborn, tensorflow, github, Selenium, BeautifulSoup
 사전 설문조사를 통해 일기 사용 행태와 원하는 일기 앱 서비스를 조사하였다.
 <img width="1290" alt="image" src="https://github.com/lyndis20/portfolio/assets/114198737/070583e6-f93a-4b79-b06e-3c88161cacf4">
 
-**해시태그 Before**
+#### **해시태그 Before**
 
 기존 블로그 게시물에 원래 포함된 해시태그를 살펴보면, 내용과 관련없이 홍보와 이벤트 참여를 위한 일반적인 내용의 해시태그가 대부분인 것을 확인할 수 있다. (ex. 서이추 환영, 주간일기, 일상 등)
 ![w1](https://github.com/lyndis20/portfolio/assets/114198737/ca055ca7-9cf0-4e93-bc65-60c5c609ce8a)
-기존 블로그 해시태그 워드 클라우드
 
-**해시태그 After (내용 요약 반영)**
+< 기존 블로그 해시태그 워드 클라우드 >
+
+#### **해시태그 After (내용 요약 반영)**
 
 KeyBert를 활용한 키워드 추출 모델을 통해 생성한 해시태그는 **본문의 내용을 더욱 잘 요약해서 반영해주고 있음**을 확인할 수 있다. 아래와 같은 해시태그를 통해 비슷한 주제의 일기를  모아서 확인할 수 있다.
 ![w2](https://github.com/lyndis20/portfolio/assets/114198737/11f08575-e700-44a2-94c2-af888dbe34f8)
-팀에서 생성한 내용 요약이 반영된 해시태그 워드 클라우드
+< 팀에서 생성한 내용 요약이 반영된 해시태그 워드 클라우드 >
 
 ## 프로젝트 결과물
 [YOUTUBE 시연 동영상 확인하기]
+
+
 https://www.youtube.com/watch?v=wHMYT7pdk0g
 
 [결과물 서비스화면]
 스트림릿을 활용한 웹페이지
-[ 일기 작성 및 제출 ]
-[ 일기로부터 태그와 주제 추출 ]
-[ 일기로부터 감정분석한 결과 ]
-[필요 시 수정 후 일기 저장 ]
-[ 태그 선택을 통해 과거의 일기 빠르게 탐색 가능 ]
+
+1. 일기 작성 및 제출
+![pd1](https://github.com/lyndis20/portfolio/assets/114198737/bcc7b0f0-deb9-4f84-b9e4-6fd89d9154e1)
+
+3. 일기로부터 태그와 주제 추출
+![pd2](https://github.com/lyndis20/portfolio/assets/114198737/d04af115-f217-4c60-a0cf-abe61701d554)
+
+5. 일기로부터 감정분석한 결과
+![pd3](https://github.com/lyndis20/portfolio/assets/114198737/05e4fee4-d7ae-4c18-8b83-c343cbb8ae0d)
+![pd4](https://github.com/lyndis20/portfolio/assets/114198737/1f5b25a5-0be3-4749-8ff5-68c927c834a3)
+
+7. 필요 시 수정 후 일기 저장
+![pd5](https://github.com/lyndis20/portfolio/assets/114198737/358bfbf6-003e-485e-92ba-57f660343e12)
+
+9. 태그 선택을 통해 과거의 일기 빠르게 탐색 가능
+![pd6](https://github.com/lyndis20/portfolio/assets/114198737/f50ab5d7-6e55-4d77-8304-d90a442da7e5)
 
 
 ## 프로젝트 회고
