@@ -7,7 +7,7 @@ AI스쿨 부트캠프 미드프로젝트 (EDA, 대시보드 제작) 6인 팀
 - 기간: 2022.10.19 - 2022.10.24 (6일)
 - 기술: Python, Pandas, Matplotlib, Seaborn, Folium, Streamlit, Tableau
 ![image](https://user-images.githubusercontent.com/114198737/235697869-d1cfc305-4d41-427d-b891-72e0516f9ffb.png)
-깃허브 링크: https://github.com/lyndis20/ai7_Mid-Project
+대시보드 구현 깃허브 링크: https://github.com/lyndis20/ai7_Mid-Project
 
 ## 담당 역할
 
